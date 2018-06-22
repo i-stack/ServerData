@@ -60,7 +60,9 @@
 		"name": "时空猎人",
 		"download": "3645万",
 		"icon": "http://p17.qhimg.com/dr/48_48_/t017bc3cfcf3981b197.png",
-		"downloadUrl": "https://github.com/songMW/ServerData/blob/master/video/05_blackhole.mp4?raw=true"
+		"downloadUrl": "https://github.com/songMW/ServerData/blob/master/video/05_blackhole.mp4?raw=true",
+		"title" : "下载",
+		"downloadState" : "0"
 	}, 
   {
 		"name": "愤怒的小鸟",
