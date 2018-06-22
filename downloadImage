@@ -90,7 +90,9 @@
 		"name": "我叫MT ",
 		"download": "2386万",
 		"icon": "http://p17.qhimg.com/dr/48_48_/t01077fd80ffb5c8740.png",
-		"downloadUrl": "https://github.com/songMW/ServerData/blob/master/video/05_blackhole.mp4?raw=true"
+		"downloadUrl": "https://github.com/songMW/ServerData/blob/master/video/05_blackhole.mp4?raw=true",
+		"title" : "下载",
+		"downloadState" : "0"
 	},
   {
 		"name": "3D终极狂飙",
