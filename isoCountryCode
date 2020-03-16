@@ -1,5 +1,4 @@
-(
-
+{
     "needUpdate":true
     "datas":[
        {
@@ -933,4 +932,4 @@
             "contryName":"Zimbabwe",
             "internationalAreaCode":"+263"
         }]
-)
+}
